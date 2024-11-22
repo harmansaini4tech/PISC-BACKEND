@@ -1,28 +1,28 @@
 // TODAY TASK 
 
-// let today = new Date();
-// let day = new Intl.DateTimeFormat("en-US", { weekday: "long" }).format(today);
+let today = new Date();
+let day = new Intl.DateTimeFormat("en-US", { weekday: "long" }).format(today);
 
-// switch (day) {
-//   case "Sunday":
-//     console.log("Sunday");
-//     break;
-//   case "Monday":
-//     console.log("Monday");
-//     break;
-//   case "Tuesday":
-//     console.log("Tuesday");
-//     break;
-//   case "Thursday":
-//     console.log("Thursday");
-//     break;
-//   case "Friday":
-//     console.log("Friday");
-//     break;
-//   case "Saturday":
-//     console.log("Saturday");
-//     break;
-// }
+switch (day) {
+  case "Sunday":
+    console.log("Sunday");
+    break;
+  case "Monday":
+    console.log("Monday");
+    break;
+  case "Tuesday":
+    console.log("Tuesday");
+    break;
+  case "Thursday":
+    console.log("Thursday");
+    break;
+  case "Friday":
+    console.log("Friday");
+    break;
+  case "Saturday":
+    console.log("Saturday");
+    break;
+}
 
 
 
