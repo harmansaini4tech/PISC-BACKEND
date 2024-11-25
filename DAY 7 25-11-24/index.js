@@ -82,3 +82,24 @@
 // },0)
 // console.log(reduced,str,arr)
 
+// some 
+// let arr = [1,2,3,4,5]
+// let somed = arr.some(num=> num>3)
+// console.log(somed)
+
+// every
+// let arr = [1,2,3,4,5]
+// let every = arr.every(num=> num>4)
+// console.log(every)
+
+// keys()
+// let arr = [1,2,3,4,5]
+// let k = arr.keys()
+// for(let key of k){
+//     console.log(key)
+// }
+
+// flat
+// let arr = [[1,2,3],[7,6,7],[4,5,6,[1,2,4,[4,5]]],[3,2,0,8,[1,2,3,[3,3,[4,5]]]]]
+// let f = arr.flat()
+// console.log(f)
